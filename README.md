@@ -1,5 +1,9 @@
-# ASTERDEX-BINANCE-BOT
-$ASTER  The bot that hunts the market.  Built by a real trading bot developer. Not a meme pretending to be tech — actual trading code.  ⚡ scans markets ⚡ hunts volatility ⚡ runs the books  No roadmap. Just execution.
+## AI LAB V2
+
+- Local background agent writes `agent_state_v2.json` and `agent_overrides_v2.json` from SIM logs.
+- Auto-start dashboard: `http://127.0.0.1:8765` in multi-symbol mode.
+- Promoted overrides only tighten filters for symbols/regimes with enough evidence.
+
 # Binance Futures Unified v4.0 — Multi-Symbol Adaptive Trading Engine
 
 A unified trading system that scans all markets, learns breakout patterns, and trades the best opportunities with on-the-fly parameter adaptation.
